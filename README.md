@@ -36,7 +36,7 @@ With each level, the sequence grows longer, testing the player’s **memory, foc
 ---
 
 ## 📁 Project Structure
-
+```text
 Simon-Says-Game/
 │
 ├── src/
@@ -50,8 +50,7 @@ Simon-Says-Game/
 │ └── game-over.png
 │
 └── README.md
-
----
+```
 ## 📸 Screenshots
 
 ### 🎮 Game Start Screen
@@ -61,7 +60,7 @@ Simon-Says-Game/
 ---
 
 ### 🔁 Gameplay & Level Progression
-![Gameplay Level](screenshots/level.png)
+![Gameplay Level](screenshots/gameplay.png)
 *Demonstrates active gameplay with increasing levels and sequence complexity.*
 
 ---
